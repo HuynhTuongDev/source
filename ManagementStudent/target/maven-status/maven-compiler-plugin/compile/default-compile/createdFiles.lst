@@ -1,0 +1,6 @@
+control\Connector.class
+model\Student.class
+model\Teacher.class
+view\Menu.class
+control\Managerment.class
+model\Admin.class
